@@ -1,2 +1,2 @@
 # Stocks_finhub
-Stock exchange app SwiftUI
+Stock exchange app SwiftUI.
